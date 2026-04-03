@@ -56,3 +56,8 @@ $$SINR = \frac{P_{signal}}{P_{noise} + P_{interference}}$$
 
 > **⚠ 免责声明 (Legal Disclaimer):**
 > 相关设备的使用必须严格遵守所在国家/地区的无线电管理法律法规。本项目仅供学术交流与射频工程参考，严禁用于任何非法目的。
+
+---
+### 📅 自动维护日志 (Daily Tech Support Update)
+
+最后技术支持更新：2026-04-03 07:10:22 (UTC+8)
