@@ -60,4 +60,4 @@ $$SINR = \frac{P_{signal}}{P_{noise} + P_{interference}}$$
 ---
 ### 📅 自动维护日志 (Daily Tech Support Update)
 
-最后技术支持更新：2026-08-12 12:11:42 (UTC+8)
+最后技术支持更新：2026-08-13 12:16:21 (UTC+8)
